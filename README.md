@@ -1,0 +1,1 @@
+# Bu projede fake bir API den verilen alınması gösterilmiştir.
