@@ -1,1 +1,1 @@
-# Bu projede fake bir API den verilen alınması gösterilmiştir.
+## Bu projede fake bir API den verilerin alınması gösterilmiştir.
